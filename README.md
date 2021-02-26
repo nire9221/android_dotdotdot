@@ -1,7 +1,7 @@
 # android_dotdotdot
 
 ## About The Project
-This project is dotdotdot game. You can connect 2 or more the same colored dots to get score.
+This project is two dots game that connecting matching dots.
 
 ### Environment
 * Android studio - Java
